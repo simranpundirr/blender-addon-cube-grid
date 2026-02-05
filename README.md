@@ -7,6 +7,14 @@ The addon is written in Python using Blender’s API and focuses on clean UI
 design, safe scene manipulation, and clear separation of functionality.
 
 ---
+## Demo
+
+### Screenshot
+![Cube Grid Generator Add-on](screenshots/ui_demo.png)
+
+### Video Walkthrough
+🎥 [Watch the add-on in action](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+
 
 ## Feature Set 1 (Complete)
 
