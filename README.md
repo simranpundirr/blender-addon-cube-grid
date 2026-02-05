@@ -13,7 +13,7 @@ design, safe scene manipulation, and clear separation of functionality.
 ![Cube Grid Generator Add-on](screenshots/ui_demo.png)
 
 ### Video Walkthrough
-🎥 [Watch the add-on in action](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+🎥 [Watch the add-on in action](https://drive.google.com/file/d/1lmj2oyOLafK7gBhIoRLemnhfkA8rBdOz/view?usp=sharing)
 
 
 ## Feature Set 1 (Complete)
